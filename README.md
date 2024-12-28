@@ -1,5 +1,5 @@
 # CEMS
-This represents all the progreess for the project CEMS
+This represents all the progress for the project CEMS
 
 # ADXL335 Accelerometer
 - The ADXL335 is a sensor which detects change in motion, vibration or tilting along three axes X, Y and Z. 
